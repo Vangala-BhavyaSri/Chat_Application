@@ -49,13 +49,15 @@ A real-time chat app built using **Node.js**, **Express**, and **Socket.IO**, de
 - 💡 Simple HTML/CSS frontend with JavaScript
 
 ## 📁 Folder Structure
-Chat_Application/  
-├── public/  
-│   ├── index.html        # Chat UI  
-│   ├── style.css         # Styles  
-│   └── client.js         # Client-side socket logic  
-├── index.js              # Main server file (Node.js + Express + Socket.IO)  
-└── package.json          # Project metadata
 
+```
+Chat_Application/
+├── public/
+│   ├── index.html       # Chat UI
+│   ├── style.css        # Styles
+│   └── client.js        # Client-side socket logic
+├── index.js             # Main server file (Node.js + Express + Socket.IO)
+└── package.json         # Project metadata
+```
 
     
