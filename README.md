@@ -56,7 +56,7 @@ Chat_Application/
 │   ├── index.html       # Chat UI
 │   ├── style.css        # Styles
 │   └── client.js        # Client-side socket logic
-├── index.js             # Main server file (Node.js + Express + Socket.IO)
+├── server.js             # Main server file (Node.js + Express + Socket.IO)
 └── package.json         # Project metadata
 ```
 
