@@ -51,11 +51,11 @@ A real-time chat app built using **Node.js**, **Express**, and **Socket.IO**, de
 ## 📁 Folder Structure
 Chat_Application/  
 ├── public/  
-│   ├── index.html       # Chat UI  
-│   ├── style.css        # Styles  
-│   └── client.js        # Client-side socket logic  
-├── index.js             # Main server file (Node.js + Express + Socket.IO)  
-└── package.json         # Project metadata
+│   ├── index.html        # Chat UI  
+│   ├── style.css         # Styles  
+│   └── client.js         # Client-side socket logic  
+├── index.js              # Main server file (Node.js + Express + Socket.IO)  
+└── package.json          # Project metadata
 
 
     
